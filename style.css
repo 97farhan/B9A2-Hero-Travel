@@ -244,6 +244,9 @@ nav {
     margin-left: auto;
     margin-right: auto;
 }
+footer{
+    background: rgba(19, 19, 24, 0.05);
+}
 
 @media screen and (max-width : 600px) {
 
